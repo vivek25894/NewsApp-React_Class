@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news-sa",
+                "name": "Google News (Saudi Arabia)"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "غارة جوية روسية تضرب مستشفى للولادة في أوكرانيا - BBC News عربي",
+            "description": "الرئيس الأوكراني فولودومير زيلينسكي يقول إن مصابين علقوا تحت الركام، ودعا زعماء الدول الغربية إلى فرض حظر للطيران فوق أوكرانيا.",
+            "url": "https://www.bbc.com/arabic/world-60680213",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/15159/production/_123616368_de27-1.jpg",
+            "publishedAt": "2022-03-09T20:15:00+00:00",
+            "content": "Mariupol city council\r\n.\r\n .\r\n .\r\n \"17 \".\r\n.\r\n \" \" .\r\n .\r\n \" \".\r\n .\r\n \" \" .\r\n 400 .\r\n .\r\n .\r\n 12 .\r\n .\r\n \" \".\r\n . .\r\n .\r\n .\r\n .\r\n 5 12 .\r\n .\r\n . \" . \" \".\r\n<ul><li></li><li></li><li></li><li></li></ul… [+92 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "Sky",
+            "title": "Ukraine war: Russia confirms it has used thermobaric weapons, says UK's Ministry of Defence",
+            "description": "<ol><li>Ukraine war: Russia confirms it has used thermobaric weapons, says UK's Ministry of Defence  Sky News\r\n</li><li>Ukraine-Russia war: UK to send more anti-tank missiles  BBC\r\n</li><li>UK Defence Secretary says UK considering donation of anti-air missile…",
+            "url": "https://news.sky.com/story/ukraine-war-russia-confirms-it-has-used-thermobaric-weapons-says-uks-ministry-of-defence-12561830",
+            "urlToImage": "https://e3.365dm.com/22/03/1600x900/skynews-thermobaric-weapon_5692653.jpg?20220303102631",
+            "publishedAt": "2022-03-09T18:53:02+00:00",
+            "content": "Russia has confirmed it has used thermobaric weapons in Ukraine, according to the UK's Ministry of Defence.\r\nThe UK MoD said its Russian counterpart said the TOS-1A weapon system had been deployed.\r\n… [+2829 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "Champions League last 16: Build-up to Man City v Sporting Lisbon & Real Madrid v PSG",
+            "description": "Follow live text and BBC Radio 5 Live commentary as Man City host Sporting Lisbon in the second leg of the Champions League last 16.",
+            "url": "http://www.bbc.co.uk/sport/live/football/57740761",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+            "publishedAt": "2022-03-09T18:52:28.7020996Z",
+            "content": "Real Madrid make four changes from the side that thrashed Sociedad 4-1 last-time out.\r\nToni Kroos starts having recovered from a hamstring injury while Nacho, Asensio and Valverde also come in.\r\nReal… [+369 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-ar",
+                "name": "Google News (Argentina)"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "\"Logramos lo que muchos dijeron que era imposible\": hallan en la Antártida el Endurance, uno de los mayores naufragios de la historia - BBC News Mundo",
+            "description": "Los científicos han identificado en el fondo marino de la Antártida los restos casi intactos del barco del explorador polar Ernest Shackleton, que naufragó en 1915.",
+            "url": "https://www.bbc.com/mundo/noticias-60677259",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/17DF4/production/_123608779_newwheel.jpg",
+            "publishedAt": "2022-03-09T13:01:33+00:00",
+            "content": "<ul><li>Jonathan Amos</li><li>Corresponsal de Ciencia de la BBC</li></ul>\r\nFuente de la imagen, FMHT / National Geographic\r\nPie de foto, Estas son las primeras imágenes del Endurance. En ellas puede … [+7347 chars]"
+        }
+    ]
+}
